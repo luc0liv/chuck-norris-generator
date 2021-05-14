@@ -2,7 +2,7 @@
 ## Template Node FullJS
 
 Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+`git clone https://github.com/luc0liv/chuck-norris-generator`
 
 Para instalar as dependências:
 `npm i`
